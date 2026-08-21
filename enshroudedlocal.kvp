@@ -1,3 +1,4 @@
+GenericModule.Meta.AppConfigId=enshroudedlocal
 App.AdminMethod=STDIO
 App.ApplicationPort1=15636
 App.ApplicationPort2=15637
