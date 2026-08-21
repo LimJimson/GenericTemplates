@@ -1,0 +1,16 @@
+[
+  {
+    "PortName": "ApplicationPort1",
+    "DisplayName": "Game Port",
+    "Direction": "Inbound",
+    "Protocol": "UDP",
+    "DefaultPort": 15636
+  },
+  {
+    "PortName": "ApplicationPort2",
+    "DisplayName": "Query Port",
+    "Direction": "Inbound",
+    "Protocol": "UDP",
+    "DefaultPort": 15637
+  }
+]
