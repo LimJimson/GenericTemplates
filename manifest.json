@@ -3,7 +3,13 @@
   "authors": ["LimJimson"],
   "origin": "https://github.com/LimJimson/GenericTemplates.git",
   "url": "https://github.com/LimJimson/GenericTemplates",
-  "imagefile": "",
-  "prefix": "",
-  "repotype": "AppTemplates"
+  "repotype": "AppTemplates",
+  "applications": [
+    {
+      "title": "Enshrouded (Local)",
+      "fileprefix": "enshroudedlocal",
+      "author": "LimJimson",
+      "description": "Enshrouded server running local pre-existing Windows files via Proton/Wine."
+    }
+  ]
 }
