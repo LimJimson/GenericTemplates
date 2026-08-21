@@ -1,0 +1,8 @@
+[
+  {
+    "Title": "Enshrouded (Local)",
+    "FilePrefix": "enshroudedlocal",
+    "Author": "Jimson",
+    "Description": "Enshrouded server running local pre-existing Windows files via Proton/Wine without SteamCMD updates."
+  }
+]
