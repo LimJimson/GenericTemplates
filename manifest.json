@@ -1,8 +1,9 @@
-[
-  {
-    "Title": "Enshrouded (Local)",
-    "FilePrefix": "enshroudedlocal",
-    "Author": "Jimson",
-    "Description": "Enshrouded server running local pre-existing Windows files via Proton/Wine without SteamCMD updates."
-  }
-]
+{
+  "id": "a8f3d192-8e2b-4d7a-b1c4-123456789abc",
+  "authors": ["LimJimson"],
+  "origin": "https://github.com/LimJimson/GenericTemplates.git",
+  "url": "https://github.com/LimJimson/GenericTemplates",
+  "imagefile": "",
+  "prefix": "",
+  "repotype": "AppTemplates"
+}
